@@ -2,7 +2,7 @@
 
 <br>
 
-<h1> Hi &#x1f44B;, &nbsp; I am Victor Thairan </h1> 
+<h1> Hi &#x1f44B; &nbsp; I am Victor Thairan </h1> 
 
 <hr/>
 
