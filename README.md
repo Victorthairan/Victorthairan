@@ -4,6 +4,10 @@
 
 <h1> Victor Thairan </h1>
 
+<hr/>
+
+
+
 <img src="https://i.ibb.co/RQRqnxN/Pngtree-web-developer-isometric-illustration-6067558.png" alt="Pngtree-web-developer-isometric-illustration-6067558" border="0" width="400px" align="right" />
 
 
