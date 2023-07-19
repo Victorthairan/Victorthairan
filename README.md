@@ -8,7 +8,7 @@
 
 
 
-<img src="https://i.ibb.co/RQRqnxN/Pngtree-web-developer-isometric-illustration-6067558.png" alt="Pngtree-web-developer-isometric-illustration-6067558" border="0" width="400px" align="right" />
+<img src="https://i.ibb.co/RQRqnxN/Pngtree-web-developer-isometric-illustration-6067558.png" alt="Pngtree-web-developer-isometric-illustration-6067558" border="0" width="350px" align="right" />
 
 
 <h1 align="center">📲️ Contacts</h1>
